@@ -1,0 +1,88 @@
+[33md35d9a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmodule-1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Complete Module 1 exercises
+[33m431edc3[m Test edit from CHPC
+[33meda4e59[m Merge pull request #46 from whitelightning450/UdateReadme
+[33m9c10be5[m refined readme
+[33m162d2bc[m Merge pull request #45 from whitelightning450/NumpyExercises
+[33mf7d173b[m Make numpy exercises
+[33m667f8fc[m Merge pull request #42 from whitelightning450/HydroizeIntroPython
+[33mc6e1ad4[m added a bit more commentary, added more hydro focused themes
+[33m7cd48d2[m Merge pull request #40 from whitelightning450/updaterm
+[33m343f551[m update module readme
+[33me6722b4[m update readme
+[33md3180c0[m Merge pull request #39 from whitelightning450/RefinePythonMod
+[33m1a779e2[m Split last modules up and updated example problems
+[33m35b115b[m Merge pull request #38 from whitelightning450/rmeupdate
+[33m88e55c9[m update readme
+[33m5995d76[m Merge pull request #37 from whitelightning450/readme
+[33mfa7e3b4[m update readme
+[33me191ab4[m Merge pull request #36 from whitelightning450/Funcs
+[33m2c4e2ae[m completed functions module
+[33macd0258[m Merge pull request #35 from whitelightning450/IntroPython
+[33m24bf421[m First 3 Modules Completed
+[33mc049ccf[m Merge pull request #34 from whitelightning450/PythonMod
+[33m3f52e0f[m Created Intro2Python Modules
+[33m7f8f784[m Merge pull request #33 from whitelightning450/udatreadme
+[33maa4df57[m removed typos and clarified readme
+[33m7119fee[m Merge pull request #32 from whitelightning450/reorg
+[33mdceaed5[m reorganizing repos
+[33mf88b5b2[m Merge pull request #31 from whitelightning450/Snsmod7
+[33m1155414[m Finished Mod 7
+[33m4bf1959[m Merge pull request #30 from whitelightning450/updtSeaborn
+[33m277bde1[m Updated Seaborn and readme
+[33m1fd3aad[m Merge pull request #29 from whitelightning450/Nbranch
+[33mbf40605[m updated comments
+[33m99df4fe[m Merge pull request #28 from whitelightning450/UpdateNumPy
+[33m90bb1a1[m added comments
+[33mf7eb5d3[m Merge pull request #27 from whitelightning450/PenvReadme
+[33me78c685[m updated readme env install
+[33m1f113d5[m Merge pull request #26 from whitelightning450/RDmeUpdate
+[33m99e9369[m updated readme
+[33m242f5ea[m Merge pull request #24 from whitelightning450/Categorical
+[33mfde3fce[m Updated Readme environment set up, finished categorical module
+[33m2e781eb[m Merge pull request #23 from whitelightning450/ReadMe
+[33m81e50ba[m Fixed Readme environment set up
+[33m1cd7a6a[m Merge pull request #22 from whitelightning450/SNSupdates
+[33m0bea2ef[m More SNS updates
+[33m2610f17[m Merge pull request #21 from whitelightning450/SNScont
+[33m8275107[m Updating SNS workshops
+[33m6ff65e2[m Merge pull request #20 from whitelightning450/sns2
+[33mfd18195[m workign through sns
+[33m7b1d183[m Merge pull request #19 from whitelightning450/SNS
+[33ma6aa7f2[m Developing SNS workshops
+[33m532ee00[m Merge pull request #18 from whitelightning450/seaborn2
+[33med0cedb[m adding file save
+[33mb95019a[m Merge pull request #17 from whitelightning450/SeaBorn
+[33m26b76b9[m Making Seaborn Module
+[33m262ce90[m Merge pull request #16 from whitelightning450/doneHV
+[33m44d5649[m Wrapping up HV workshop
+[33ma63fef1[m Merge pull request #15 from whitelightning450/updatedHV
+[33m86f8a69[m Completed another HVplot module
+[33m7b89ef3[m Merge pull request #14 from whitelightning450/Holoviz
+[33mc647a46[m halway there
+[33m6b09f78[m Merge pull request #13 from whitelightning450/HoloViewz
+[33me432d1a[m Adding Holoviews workshop
+[33mfc35c8e[m Merge pull request #12 from whitelightning450/FinishedMPL
+[33m99854f6[m Wrapped up MPL Workshop
+[33m1e27fc9[m Merge pull request #11 from whitelightning450/plotting
+[33m83485a6[m UPdating MPL scripts
+[33m4942b0d[m Merge pull request #10 from whitelightning450/MPLupdates
+[33m1d71015[m MPL updates
+[33m97c457c[m Merge pull request #9 from whitelightning450/MPL
+[33m30ef0ea[m Building out Matplotlib Tutorial
+[33me85fbf2[m Merge pull request #8 from whitelightning450/fileclearnup
+[33maf8f6cb[m file deletions
+[33m40042bf[m Merge pull request #7 from whitelightning450/FinishIntroPandas
+[33m9e331c0[m Wrapping up Intro to Pandas
+[33m5dfdeba[m Merge pull request #6 from whitelightning450/HalfPandasTut
+[33m480bf50[m Halfway through developing Intro to Pandas Tutorial
+[33m375efc4[m Merge pull request #5 from whitelightning450/FinishNumpy
+[33m2029ce3[m Wrapped Up Numpy Tutorial
+[33mba4b6b0[m Merge pull request #4 from whitelightning450/NumpyCont
+[33md7e6c52[m finished two chapters
+[33m2d07ca9[m Merge pull request #3 from whitelightning450/MathFunctions
+[33m1a48eb9[m Finalized Math functions
+[33ma7d42e4[m Merge pull request #2 from whitelightning450/UpdatedNumpy
+[33m9748714[m Updated Numpy Tutorials
+[33m9403731[m Merge pull request #1 from whitelightning450/MyIntro
+[33m4e88fdb[m copied work from org to my repo for git
+[33mb45caee[m Initial commit
